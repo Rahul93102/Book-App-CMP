@@ -9,10 +9,9 @@ Bookpedia helps you organize and keep track of your book collection across multi
 ## Screenshots
 
 <div align="center">
-  <img src="img_1.jpeg" alt="Bookpedia Screenshot 1" width="250"/>
+  <img src="img.jpeg" alt="Bookpedia Main Screenshot" width="250"/>
   <img src="img_2.jpeg" alt="Bookpedia Screenshot 2" width="250"/>
   <img src="img_3.jpeg" alt="Bookpedia Screenshot 3" width="250"/>
-  <img src="img.jpeg" alt="Bookpedia Main Screenshot" width="250"/>
 </div>
 
 ## Project Structure
