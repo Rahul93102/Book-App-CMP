@@ -1,4 +1,4 @@
-# Bookpedia
+# Book App
 
 A Kotlin Multiplatform project for book cataloging and management targeting Android, iOS, and Desktop platforms.
 
